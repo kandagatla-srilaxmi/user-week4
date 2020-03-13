@@ -1,0 +1,12 @@
+div button {
+    float: right;
+    margin-right:10px;
+
+}
+
+.list{
+    border-style: groove;
+    padding:5px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}

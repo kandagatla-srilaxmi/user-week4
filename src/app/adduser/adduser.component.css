@@ -1,4 +1,7 @@
 .groove{
     border-style: groove;
     padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 150px;
+
 }
